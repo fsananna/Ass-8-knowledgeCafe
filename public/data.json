@@ -1,0 +1,39 @@
+[
+    {
+      "characterName": "Mrs. Setara",
+      "readingDate": "Mar 14 (4 Days ago)",
+      "readingTime":"10 min read",
+      "description": "How to get your first job as a self-taught programmer",
+      "hashTag":"#beginners  #programmings",
+      "poster": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "mark": "Mark as read"
+    },
+    {
+      "characterName": "Mina Mostofa",
+      "readingDate": "Mar 14 (4 Days ago)",
+      "readingTime":"5 min read",
+      "description": "How to get your first job as a self-taught programmer",
+      "hashTag":"#beginners  #programmings",
+      "poster": "https://images.unsplash.com/photo-1590959651373-a3db0f38a961?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1939&q=80",
+      "mark": "Mark as read"
+    },
+    {
+      "characterName": "Mr Aman",
+      "readingDate": "Mar 14 (4 Days ago)",
+      "readingTime":"15 min read",
+      "description": "How to get your first job as a self-taught programmer",
+      "hashTag":"#beginners  #programmings",
+      "poster": "https://plus.unsplash.com/premium_photo-1664301969414-d8435c2b91bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "mark": "Mark as read"
+    },
+    {
+      "characterName": "",
+      "readingDate": "Mar 14 (4 Days ago)",
+      "readingTime":"30 min read",
+      "description": "How to get your first job as a self-taught programmer",
+      "hashTag":"#beginners  #programmings",
+      "poster": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "mark": "Mark as read"
+    }
+  ]
+  
